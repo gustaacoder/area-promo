@@ -1,0 +1,15 @@
+{
+    "Configuration Saved Successfully!": "Configuração salva com sucesso!",
+    "Failed to save configuration": "Falha ao salvar configuração",
+    "This field is required": "Este campo é obrigatório",
+    "Save": "Salvar",
+    "Affiliate Tag": "Tag do Afiliado",
+    "Cookie": "Cookie",
+    "CSRF Token": "Token CSRF",
+    "Affiliate Endpoint": "Endpoint do Afiliado",
+    "Base URL": "URL Base",
+    "Max Items": "Máximo de Itens",
+    "Max Items Name": "Máximo de Nome de Itens",
+    "Settings": "Configurações",
+    "Configuration": "Configuração"
+}
