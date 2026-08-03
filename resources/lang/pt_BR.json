@@ -11,5 +11,13 @@
     "Max Items": "Máximo de Itens",
     "Max Items Name": "Máximo de Nome de Itens",
     "Settings": "Configurações",
-    "Configuration": "Configuração"
+    "Configuration": "Configuração",
+    "AI Setting": "Configuração da IA",
+    "Provider": "Provedor",
+    "Model": "Modelo",
+    "System Prompt": "Prompt do Sistema",
+    "User Prompt Template": "Modelo de Prompt do Usuário",
+    "Temperature": "Temperatura",
+    "Top P": "Top P",
+    "Max Output Tokens": "Máximo de Tokens de Saída"
 }
